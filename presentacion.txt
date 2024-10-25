@@ -1,2 +1,5 @@
 hola a todos
 bienvenidos al desarrollo de dispositivos moviles
+
+Durante el curso se aprenderan nuevas cosas;
+todo lo necesario para aprender a crear aplicaciones para dispositivos moviles.
